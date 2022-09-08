@@ -1,0 +1,6 @@
+
+A lower number of dimensions in data means less training time and less computational resources and increases the overall performance of machine learning algorithms
+Dimensionality reduction avoids the problem of overfitting
+Dimensionality reduction is extremely useful for data visualization
+Dimensionality reduction removes noise in the data
+Dimensionality reduction can be used for image compression

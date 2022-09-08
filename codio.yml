@@ -1,0 +1,8 @@
+speed: 10
+lines:
+- prompt: $
+  in: pip install intro_to_Machine_Learning
+  out: "Welcome to MAS..!"
+- progress: true
+  progressChar: █
+- prompt: $
